@@ -279,7 +279,7 @@ export default function PortfolioWebsite() {
 
                 <div>
                   <p className="text-2xl font-semibold text-slate-900">
-                    Bachelor of Technology
+                    Bachelor of Technology in Computer Science & Engineering
                   </p>
                   <p className="mt-1 text-lg">SRM University, AP</p>
                   <p className="text-lg">Sept 2021 - May 2025</p>
